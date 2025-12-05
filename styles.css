@@ -20,7 +20,8 @@ body {
     background-color: var(--color-secondary);
     overflow-y: scroll;
     transition: all 0.3s;
-    /* box-shadow: 0px 4px 5px -1px rgba(0, 0, 0, 0.296); */
+    z-index: 100;
+    box-shadow: 0px 4px 5px -1px rgba(0, 0, 0, 0.296);
 
     @media screen and (min-width: 481px) {
         height: 95px;
