@@ -34,9 +34,7 @@ body {
   align-content: center;
   justify-content: center;
   }
-
 }
-
 
 h1 {
     font-size: clamp(2.25rem, 1.0141rem + 5.0704vw, 4.5rem);
@@ -48,12 +46,14 @@ h1 {
 h2 {
     font-size: var(--font-size-h3);
   font-weight: 600;
-  /* margin: 10px; */
+  margin-left: 10px;
     color: var(--color-text-primary);
 }
+
 a {
     text-decoration: none;
 }
+
 
 p {
    font-style: normal;
@@ -76,7 +76,8 @@ p {
     display: flex;
     justify-content: center;
     border-radius: 35px;
-    width: 310px;
+    width: 455px;
+    height: 310px;
     box-shadow: 2px 7px 8px 2px #000000;
     object-fit: cover;
     object-position: center;
@@ -86,7 +87,7 @@ p {
 @media screen and (min-width: 961px) {
     grid-area: 1 / 1 / 2 / 2; 
     width: 80%;
-    height: 308px;
+    height: 373px;
     object-fit: cover;
     object-position: center;
 }
@@ -129,7 +130,7 @@ p {
 }
 
 .content {
-      font-size: var(--font-size-p-s);
+    font-size: var(--font-size-p-s);
     background-color: var(--color-text-primary);
     border-radius: 25px;
     max-width: 120%;
@@ -139,6 +140,7 @@ p {
     @media screen and (min-width: 961px) {
         max-width: 90%;
         height: auto;
+        margin-right: 20px;
     }
 }
 
