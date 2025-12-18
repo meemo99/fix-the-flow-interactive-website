@@ -17,6 +17,7 @@ De website van Design for Recognition bestaat uit een overzichtspagina en een de
 #### Overzichtspagina
 ##### Desktop
 <img width="1080" height="900" alt="Scherm­afbeelding 2025-12-18 om 12 57 47" src="https://github.com/user-attachments/assets/32aeadd5-aef5-4ad1-a75d-b86eb6e83cf0" />
+
 ##### IPhone
 <img width="252" height="518" alt="Scherm­afbeelding 2025-12-18 om 13 33 13" src="https://github.com/user-attachments/assets/2e53faea-2d61-42d4-8823-0db6a85c6ca9" />
 
