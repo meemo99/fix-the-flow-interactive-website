@@ -11,6 +11,8 @@ Design for Recognition is een hulpmiddel/bibliotheek voor ontwerpers en beleidma
 De website van Design for Recognition bestaat uit een overzichtspagina en een detailpagina.
 
 #### Overzichtspagina
+<img width="1440" height="900" alt="Scherm­afbeelding 2025-12-18 om 12 57 47" src="https://github.com/user-attachments/assets/32aeadd5-aef5-4ad1-a75d-b86eb6e83cf0" />
+
 De overzichtspagina is de plek waar alle casestudies in cards gepresenteerd worden. Elke card heeft zijn eigen titel en 3 knoppen waarop gefilterd kan worden. De 3 knoppen zijn een indicatie waar de betreffende casestudy is in 3 categoriën; Processtap, Participatieniveau en Uitvoering.
 
 <img width=600 src="https://github.com/user-attachments/assets/87d891f5-e208-4790-bb6c-7cea10274e76">
@@ -18,6 +20,10 @@ De overzichtspagina is de plek waar alle casestudies in cards gepresenteerd word
 Op de header zit een scroll-interactie om meer ruimte te kunnen maken voor de case-studies.
 
 <img width=600 src="https://github.com/user-attachments/assets/96866839-e122-42c7-8191-9a19b0ac7712">
+
+#### Detailpagina
+<img width="1440" height="900" alt="Scherm­afbeelding 2025-12-18 om 12 58 31" src="https://github.com/user-attachments/assets/f3cb5fba-48e0-4204-89c6-1efb8b04b60e" />
+
 
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
