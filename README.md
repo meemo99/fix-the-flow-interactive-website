@@ -6,6 +6,10 @@ De instructie vind je in: [INSTRUCTIONS.md](https://github.com/fdnd-task/fix-the
 # Design For Recognition
 Design for Recognition is een hulpmiddel/bibliotheek voor ontwerpers en beleidmakers die werken aan technologie aan de stad.
 
+## Inhoudsopgave
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Bronnen](#bronnen)
 ## Beschrijving
 
 De website van Design for Recognition bestaat uit een overzichtspagina en een detailpagina.
@@ -31,8 +35,15 @@ Op de header zit een scroll-interactie om meer ruimte te kunnen maken voor de ca
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+#### HTML structuur
+De HTML heeft aria-labels en onnodige sections zijn weggehaald om verwarring en styling te verbeteren.
+#### CSS
+Er is mobile-first gewerkt en de media-queries zijn genest. De css-styling voldoet aan de gemaakte stylesheet. Deze is gebaseerd op een door de opdrachtgever gegeven website.
+#### JavaScript
+Met JS zijn de interacties gemaakt zoals de dropdown filter, waarin de 3 filterbare categoriën verborgen zijn.
 
 ## Bronnen
+- Huisstijl https://khouam.github.io/look-and-feel-styleguide/
 
 ## Licentie
 
