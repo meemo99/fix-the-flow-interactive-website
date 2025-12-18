@@ -33,7 +33,7 @@ Op de header zit een scroll-interactie om meer ruimte te kunnen maken voor de ca
 <img width=600 src="https://github.com/user-attachments/assets/96866839-e122-42c7-8191-9a19b0ac7712">
 
 #### Detailpagina
-Op de detailpagina komt een verdere uitwerking van de case-study te staan. Als de case-studies volledige zijn uitgewerkt tot een methode moet het downloadbaar zijn voor het volledig onderzoek met resultaten.
+Op de detailpagina komt een verdere uitwerking van de case-study te staan. Als de case-studies volledige zijn uitgewerkt tot een methode moet het downloadbaar zijn voor het volledig onderzoek met resultaten. Ook op de detailpagina komen de buttons voor de categoriën weer terug om consistent te blijven in het design.
 ##### Desktop
 <img width="1440" height="900" alt="Scherm­afbeelding 2025-12-18 om 12 58 31" src="https://github.com/user-attachments/assets/f3cb5fba-48e0-4204-89c6-1efb8b04b60e" />
 
