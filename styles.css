@@ -82,6 +82,7 @@ svg.small{
     }
 }
 
+
 /* filter styling */
 
 .filter-btn{
@@ -112,7 +113,7 @@ svg.small{
 .dropdown-content {
   display: none;
   /* position: absolute; */
-  margin: 10px;
+  margin: 15px;
   padding: 10px;
   min-width: 230px;
   z-index: 1;
@@ -164,6 +165,7 @@ a {
   text-decoration: none;
 }
 
+
 /* Card styling */
 .case-studies {
   background: var(--color-primary);
@@ -178,7 +180,7 @@ a {
   }
   @media screen and (min-width: 961px) {
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
   }
 }
 
