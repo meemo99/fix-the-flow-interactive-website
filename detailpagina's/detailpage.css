@@ -143,11 +143,7 @@ p {
         margin-right: 20px;
     }
 }
-.download-icon {
-    height: 65px;
-    width: 65px;
-    align-self: flex-start;
-}
+
 .tags {
   display: flex;
   flex-flow: row wrap;
