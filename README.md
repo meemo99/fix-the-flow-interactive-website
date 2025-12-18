@@ -3,8 +3,8 @@ Ontwerp en maak een interactieve website voor een opdrachtgever.
 
 De instructie vind je in: [INSTRUCTIONS.md](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Design For Recognition
+Design for Recognition is een hulpmiddel/bibliotheek voor ontwerpers en beleidmakers die werken aan technologie aan de stad.
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
