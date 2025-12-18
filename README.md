@@ -14,7 +14,8 @@ De website van Design for Recognition bestaat uit een overzichtspagina en een de
 De overzichtspagina is de plek waar alle casestudies in cards gepresenteerd worden. Elke card heeft zijn eigen titel en 3 knoppen waarop gefilterd kan worden. De 3 knoppen zijn een indicatie waar de betreffende casestudy is in 3 categoriën; Processtap, Participatieniveau en Uitvoering.
 
 Op de header zit een scroll-interactie om meer ruimte te kunnen maken voor de case-studies.
-<img src="https://github.com/user-attachments/assets/96866839-e122-42c7-8191-9a19b0ac7712">
+
+<img width=600 src="https://github.com/user-attachments/assets/96866839-e122-42c7-8191-9a19b0ac7712">
 
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
