@@ -7,6 +7,11 @@ De instructie vind je in: [INSTRUCTIONS.md](https://github.com/fdnd-task/fix-the
 Design for Recognition is een hulpmiddel/bibliotheek voor ontwerpers en beleidmakers die werken aan technologie aan de stad.
 
 ## Beschrijving
+
+De website van Design for Recognition bestaat uit een overzichtspagina en een detailpagina.
+
+#### Overzichtspagina
+De overzichtspagina is de plek waar alle casestudies in cards gepresenteerd worden. Elke card heeft zijn eigen titel en 3 knoppen waarop gefilterd kan worden. De 3 knoppen zijn een indicatie waar de betreffende casestudy is in 3 categoriën; Processtap, Participatieniveau en Uitvoering.
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
