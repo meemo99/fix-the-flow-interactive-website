@@ -36,6 +36,7 @@ Op de header zit een scroll-interactie om meer ruimte te kunnen maken voor de ca
 Op de detailpagina komt een verdere uitwerking van de case-study te staan. Als de case-studies volledige zijn uitgewerkt tot een methode moet het downloadbaar zijn voor het volledig onderzoek met resultaten.
 ##### Desktop
 <img width="1440" height="900" alt="Scherm­afbeelding 2025-12-18 om 12 58 31" src="https://github.com/user-attachments/assets/f3cb5fba-48e0-4204-89c6-1efb8b04b60e" />
+
 ##### IPhone
 <img width="255" height="516" alt="Scherm­afbeelding 2025-12-18 om 13 29 30" src="https://github.com/user-attachments/assets/8d05c12d-3446-449d-9b22-292c6bcd6184" />
 
